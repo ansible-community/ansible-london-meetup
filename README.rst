@@ -11,7 +11,7 @@ the community.
 Ultimately, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
-.. _Ansible Montreal: https://www.meetup.com/Ansible-London/
+.. _Ansible London, UK: https://www.meetup.com/Ansible-London/
 .. _keithresar: https://github.com/keithresar
 .. _Ansible Minneapolis: https://github.com/keithresar/ansible-minneapolis-meetup-topics
 
