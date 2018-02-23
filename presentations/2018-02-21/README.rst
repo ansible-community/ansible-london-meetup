@@ -36,7 +36,7 @@
         - name: Secret Management in Ansible
           presentation:
             by: Dimple Dalby
-            document: 04-Ansible-vault-and-Consul.pptx
+            document: 04-Ansible-vault.pptx
             abstract: |
               Dimple Dalby will show us how to deal with secrets in Ansible, including some
-              best practices. We will also see how Consul can be used as a vault backend.
+              best practices.
