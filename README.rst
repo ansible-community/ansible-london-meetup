@@ -28,23 +28,20 @@ Presentation topics
 If you would like to suggest and discuss topics for presentations, please look
 through the issues_.
 If you'd like to see a presentation about something and it isn't there, feel
-free to create a new issue !
+free to create a new issue!
 
 .. _issues: https://github.com/ansible-community/ansible-london-meetup/issues
 
 Submitting a talk
 =================
 
-If you'd like to present a talk, please submit a pull request and add your
-suggestion to the submissions directory in .txt, .md or .rst format. You can
-see an example submission here_.
+If you'd like to present a talk, create a GitHub issue here_.
 
-This directory's submissions will be flushed periodically and moved over to the
-presentations_ for talks that have been done.
+The discussion regarding dates will take place in the GitHub issue
 
-Otherwise, submissions might be kept for the next meetup !
+Otherwise, submissions might be kept for the next meetup.
 
-.. _here: https://github.com/ansible-community/ansible-london-meetup/blob/master/submissions/example.md
+.. _here: https://github.com/ansible-community/ansible-london-meetup/issues/new/choose
 .. _presentations: https://github.com/ansible-community/ansible-london-meetup/tree/master/presentations
 
 Contributing
