@@ -12,6 +12,7 @@
           presentation:
             by: Pete, F5 Networks
             document: 01-Magic-Happens.pdf
+            link: https://gitlab.com/packet.ninja/cl-cicd
             abstract: |
               With increasing Linux networking features in the kernel,
               it's now possible to have CI/CD workflows for testing and provisioning the switches in the data centre.
@@ -19,7 +20,8 @@
         - name: Jinja2 Filters
           presentation:
             by: Jiri Tyr
-            document:
+            document: no
+            link: https://www.slideshare.net/jtyr/jinja-2-filters/
             abstract: |
               Learn how to create Jinja2 filters and how to distribute and use them via an Ansible role
 
@@ -29,4 +31,12 @@
             document:
             abstract: |
               How to use molecule V2 to run integration tests on AWS using Terraform and testinfra
+
+        - name: Bonus - GBT - Prompt builder for Bash and ZSH written in GO
+          presentation:
+            by: Jiri Tyr
+            link: https://github.com/jtyr/gbt
+            document: no
+            abstract: |
+              Thanks Jiri for sharing this prompt builder with us as a bonus!
 
