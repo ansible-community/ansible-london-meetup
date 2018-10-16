@@ -52,4 +52,4 @@
             abstract: |
               Ansible 2.7.0 has been released https://groups.google.com/forum/#!topic/ansible-announce/fx7nxwL4hMM
               Join the Ansible Community Working Groups, https://github.com/ansible/community/#groups
-              AnsibleFest videos will be release soon on https://ansible.com/videos
+              AnsibleFest videos will be released soon on https://ansible.com/videos
