@@ -11,7 +11,7 @@
       tasks:
         - name: If ( Network == Server ) { Magic happens }
           presentation:
-            by: Pete, Cumulus Networks
+            by: Pete Crocker, Cumulus Networks
             video: https://youtu.be/1a5mkHWVwCk
             document: 01-Magic-Happens.pdf
             link: https://gitlab.com/packet.ninja/cl-cicd
