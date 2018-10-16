@@ -7,6 +7,7 @@
         link: https://www.meetup.com/Ansible-London/events/254403376/
         sponsors:
           - Cumulus Networks for drinks and pizza
+          - Sainsbury's for venue. They are hiring Ansible Engineers https://tinyurl.com/joinjs
       tasks:
         - name: If ( Network == Server ) { Magic happens }
           presentation:
@@ -31,6 +32,10 @@
             document:
             abstract: |
               How to use molecule V2 to run integration tests on AWS using Terraform and testinfra
+            link:
+              - https://molecule.readthedocs.io/en/latest/
+              - https://groups.google.com/forum/#!topic/molecule-users/O1a_YNAjy-Q
+              - https://github.com/willthames/ansible-lint/
 
         - name: Bonus - GBT - Prompt builder for Bash and ZSH written in GO
           presentation:
@@ -39,4 +44,3 @@
             document: no
             abstract: |
               Thanks Jiri for sharing this prompt builder with us as a bonus!
-
