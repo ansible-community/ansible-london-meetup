@@ -11,7 +11,7 @@
       tasks:
         - name: If ( Network == Server ) { Magic happens }
           presentation:
-            by: Pete, F5 Networks
+            by: Pete, Cumulus Networks
             document: 01-Magic-Happens.pdf
             link: https://gitlab.com/packet.ninja/cl-cicd
             abstract: |
