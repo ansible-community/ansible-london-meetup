@@ -30,9 +30,9 @@
         - name: Integration tests in Ansible
           presentation:
             by: Pavlos Kleanthous
-            document:
+            document: 03-Integration-tests-in-Ansible-with-Molecule.pdf
             abstract: |
-              How to use molecule V2 to run integration tests on AWS using Terraform and testinfra
+              How to use Molecule V2 to run integration tests on AWS using Terraform and testinfra
             link:
               - https://molecule.readthedocs.io/en/latest/
               - https://groups.google.com/forum/#!topic/molecule-users/O1a_YNAjy-Q
