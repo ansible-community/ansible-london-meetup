@@ -45,3 +45,11 @@
             document: no
             abstract: |
               Thanks Jiri for sharing this prompt builder with us as a bonus!
+
+        - name: Ansible updates
+          presentation:
+            by: John "gundalow" Barker
+            abstract: |
+              Ansible 2.7.0 has been released https://groups.google.com/forum/#!topic/ansible-announce/fx7nxwL4hMM
+              Join the Ansible Community Working Groups, https://github.com/ansible/community/#groups
+              AnsibleFest videos will be release soon on https://ansible.com/videos
