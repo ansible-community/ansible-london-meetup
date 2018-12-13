@@ -6,10 +6,10 @@
         date: 2018-12-12
         link: https://www.meetup.com/Ansible-London/events/254878934/
         sponsors:
-          - Memset for drinks and pizza
+          - Memset for drinks and pizza https://www.memset.com/
           - Sainsbury's for venue. They are hiring Ansible Engineers https://tinyurl.com/joinjs
       tasks:
-        - name: Writing your first ansible module
+        - name: Writing your first Ansible module
           presentation:
             by: Simon from Memset
             document:
@@ -41,5 +41,10 @@
         - name: Ansible updates
           presentation:
             by: John "gundalow" Barker
+            document: community-update-Dec-2018.pdf
             abstract: |
-
+              Update on PR review days, next is 19th Dec 2018 in #ansible-community. 
+            link:
+              - PR Review days https://github.com/ansible/community/issues/407
+              - Submit a talk https://github.com/ansible-community/ansible-london-meetup/
+              - Community Guide https://docs.ansible.com/ansible/devel/community/
