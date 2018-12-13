@@ -11,8 +11,8 @@
       tasks:
         - name: Writing your first Ansible module
           presentation:
-            by: Simon from Memset
-            document:
+            by: Simon Weald from Memset
+            document: 01-Writing-your-first-Ansible-module.pdf
             link:
             abstract: |
               A relatively high-level view of what goes into writing your first module,
