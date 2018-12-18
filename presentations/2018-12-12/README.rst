@@ -20,8 +20,7 @@
         - name: Managing Ansible roles across different environments
           presentation:
             by: Jiri Tyr
-            document: no
-            link:
+            link: https://www.slideshare.net/jtyr/managing-multiple-environments-with-ansible
             abstract: |
               Demonstrate how to manage Ansible roles across multiple environments (dev, qa, stage, prod).
               How to version it, how to make sure each environment is using only a specific version of the roles
