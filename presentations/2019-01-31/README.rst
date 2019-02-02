@@ -52,7 +52,7 @@
         - name: Automate Kubernetes Workloads with Ansible
           presentation:
             by: Michael Hrivnak, Red Hat
-            document: FIXME
+            document: automate-k8s-workloads-ansible.pdf
             abstract: |
               Ansible's k8s module makes it easier than ever to automate a Kubernetes
               cluster, even for someone who has little Ansible experience. This talk introduces
@@ -60,4 +60,6 @@
               application for self-service provisioning. We will conclude by learning
               how to achieve day-two management by making an Ansible-based Operator.
             links:
-              - FIXME
+              - http://automationbroker.io/
+              - https://github.com/operator-framework/operator-sdk/
+              - https://learn.openshift.com/operatorframework/
