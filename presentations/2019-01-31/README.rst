@@ -6,13 +6,13 @@
         date: 2019-01-31
         link: https://www.meetup.com/Ansible-London/events/257896565/
         sponsors:
-          - Red Hat for beiverages and pizza
+          - Red Hat for beverages and pizza
           - Sainsbury's for the venue
       tasks:
         - name: An Ansible Developer and Ecosystem Story
           presentation:
             by: Tim Appnel, Senior Product Manager, Ansible
-            document: FIXME
+            document: Ansible-Future-Directions.pdf
             abstract: |
               This presentation is about what we are observing, thinking about and steering
               Ansible over the coming years. This will be rolled out incrementally over time
