@@ -27,8 +27,8 @@
               - github.com/ansible/ansible-lint
               - github.com/ansible/molecule
               - galaxy-dev.ansible.com
-              - #ansible-galaxy on IRC
-              - #ansible-molecule on IRC
+              - `#ansible-galaxy` on IRC
+              - `#ansible-molecule` on IRC
 
         - name: How I use Ansible to save me 30 minutes a day
           presentation:
