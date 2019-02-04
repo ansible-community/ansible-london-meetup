@@ -43,9 +43,9 @@
         - name: Bringing Ansible to an existing ops infrastructure
           presentation:
             by: Michael Kaye, matrix.org
-            document: FIXME
+            document: Introducing Ansible to matrix-final.pdf
             abstract: |
-              Mainly discussing approaches I've taken to adopt Ansible within matrix.org,
+              Discussing approaches I've taken to adopt Ansible within matrix.org,
               describing where we started, what worked, what ran into problems. I'll
               cover four or five strategies I tried.
 
