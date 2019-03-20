@@ -19,7 +19,6 @@
               with Ansible and the different ways we run our playbooks.
             links:
               - https://www.gresearch.co.uk/
-
         - name: "Variable precedence - Where should I put a variable?"
           presentation:
             by: Jiri Tyr
@@ -57,6 +56,5 @@
            abstract:
              - Ansible 2.8 will be released soon, testing welcome https://github.com/ansible/ansible/blob/devel/docs/docsite/rst/roadmap/ROADMAP_2_8.rst
              - Ansible Working Groups https://github.com/ansible/community/wiki
+             - AnsibleFest Atlanta https://ansible.com/ansiblefest
 
-
-              FIXME: AnsibleFest, 2.8 Dates, Contributor Summits
