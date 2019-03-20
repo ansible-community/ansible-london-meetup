@@ -12,7 +12,7 @@
         - name: An overview of how G-Research use Ansible for infrastructure automation
           presentation:
             by: Luke Griffith, G-Research
-            document: FIXME
+            document: 01 - Ansible at G-Research.pdf
             abstract: |
               G-Research use Ansible to automate infrastructure and perform orchestration
               tasks. I will be talking about the various technologies that we automate
