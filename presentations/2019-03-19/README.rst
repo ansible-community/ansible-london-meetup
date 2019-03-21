@@ -51,6 +51,7 @@
               walk through how it works and hopefully inspire the audience to use Ansible for
               automating their personal IT too.
             links:
+              - https://adamj.eu/tech/2019/03/20/how-i-provision-my-macbook-with-ansible/
               - https://github.com/adamchainz/mac-ansible
          - name: General updates
            abstract:
