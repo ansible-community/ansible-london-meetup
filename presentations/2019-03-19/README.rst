@@ -22,7 +22,7 @@
         - name: "Variable precedence - Where should I put a variable?"
           presentation:
             by: Jiri Tyr
-            document: FIXME
+            document: https://www.slideshare.net/jtyr/variable-precedence-where-should-i-put-a-variable
             abstract: |
               We once again welcome Jiri to the stage, this month he's showing us
               everywhere that you could define Ansible variables and how the override
