@@ -1,10 +1,6 @@
 Ansible London Meetup
 =====================
 
-This repository holds interesting data about the `Ansible London, UK`_ meetup.
-It is inspired by the work of `keithresar`_ for the `Ansible Minneapolis`_
-meetup.
-
 It turns out that organizing and managing a meetup is much easier when involving
 the community.
 
@@ -12,15 +8,11 @@ Ultimately, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
 .. _Ansible London, UK: https://www.meetup.com/Ansible-London/
-.. _keithresar: https://github.com/keithresar
-.. _Ansible Minneapolis: https://github.com/keithresar/ansible-minneapolis-meetup-topics
-
 
 Previous presentations
 ======================
 
 Slides and videos for previous presentations can be found in presentations_ folder.
-
 
 Presentation topics
 ===================
