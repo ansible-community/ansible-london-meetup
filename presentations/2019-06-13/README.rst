@@ -31,7 +31,7 @@
         - name: Self-healing applications with Ansible
           presentation:
             by: Jürgen Etzlstorfer - Dynatrace
-            document:
+            document: ./keptn - ansible meetup london june 2019.pdf
             abstract: |
               In this session we will explore how to leverage Ansible as automation platform to automate remediation tasks.
               Upon of this, we will learn what is needed to build your own remediation workflow including monitoring,
