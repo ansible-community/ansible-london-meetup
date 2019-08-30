@@ -27,3 +27,9 @@
             document:
             abstract:
             recording:
+        - name: General updates
+          presentation:
+            abstract:
+              - PR review days days 3rd & 19th Sept, got some free time, join us online http://bit.ly/ansiblePRs
+              - AnsibleFest Atlanta https://ansible.com/ansiblefest
+              
