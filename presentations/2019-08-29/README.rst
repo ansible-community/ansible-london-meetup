@@ -9,11 +9,16 @@
           - Venue Sainsbury's, they are hiring, checkout https://tinyurl.com/joinusjs
           - Drinks and pizza, F5
       talks:
-        - name: Ansible to bridge the divide between DevOps and Infrastructure
+        - name: Ansible to bridge the gap between DevOps and Infrastructure
           presentation:
             by: Bart Van Bos - F5
-            document:
-            abstract:
+            document: ./DevOps-Pipelines.to.bridge.the.Gap-BartVanBos.pdf
+            abstract: |
+              Many companies try to bridge the cultural/knowledge gap between development and operational 
+              infrastructure teams. As most infrastructure providers today, are offering Ansible support 
+              for their (HW or SW) based solutions, there is an opportunity to bridge that gap, using 
+              common tools (Ansible) and processes (CI/CD pipelines). F5 Networks offers imperative and 
+              declarative REST API’s in order to fit application delivery needs.
             recording:
         - name: 33% higher profit; 300% more innovation; 125% less burnout - Positive Psychology with Ansible
           presentation:
