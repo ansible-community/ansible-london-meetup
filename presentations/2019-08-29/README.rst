@@ -18,8 +18,12 @@
         - name: 33% higher profit; 300% more innovation; 125% less burnout - Positive Psychology with Ansible
           presentation:
             by: James Freeman - Quru
-            document:
-            abstract:
+            document: ./James Freeman - Positive Psychology with Ansible.pdf
+            abstract: |
+              Organisations that implement Positive Psychology have shown demonstrable improvements in levels of innovation and profitability
+              alongside improved employee well-being. Recent studies have shown that technology workers are suffering a crisis in their 
+              emotional and mental well-being, and this talk explores the topics of Positive Psychology and Authentic Happiness, and discusses
+              how Ansible directly supports these.
             recording:
         - name: How to make Systems Administrator life easy using Ansible
           presentation:
