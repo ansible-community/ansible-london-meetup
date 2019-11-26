@@ -18,7 +18,7 @@
         - name: The power of local facts
           presentation:
             by: McCarthy
-            document:
+            document: The_power_of_local_facts.pdf
             abstract: |
               Cover how you can set up and use local server facts to act like an ENC (external node classifier)
               and provide fact variables to ansible to allow location, environment & role specific information to customise our ansible runs.
