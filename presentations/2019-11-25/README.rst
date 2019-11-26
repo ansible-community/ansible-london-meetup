@@ -8,10 +8,10 @@
         sponsors:
           - KPMG
       talks:
-        - name: Provisioning VMs on VMware ESXi with Ansible
+        - name: Managing VMware VMs with Ansible
           presentation:
             by: Jiri Tyr
-            document:
+            document: Managing VMware VMs with Ansible.pdf
             abstract: |
               How to use Ansible to build VM templates, how to upload them to vCenter and how to build and rebuild VMs from such template.
             recording:
