@@ -18,3 +18,9 @@
                 during Ansible run. This talk shows how to use Callback Plugins
                 and how to develop a new one.
             recording:
+        - name: Tips that make my Ansible playbooks better
+          presentation:
+            by: Tomasz Papir-Zwierz
+            document: G-Research_Better_Playbooks.pdf
+            abstract:
+            recording:
