@@ -7,7 +7,7 @@ the community.
 Ultimately, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
-.. _Ansible London, UK: https://www.meetup.com/Ansible-London/
+Join the `Ansible London, UK meetup group <https://www.meetup.com/Ansible-London/>`_ to be informed of future meetups.
 
 Previous presentations
 ======================
