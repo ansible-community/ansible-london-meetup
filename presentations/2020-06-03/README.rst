@@ -23,7 +23,7 @@
         - name: Using pre-commit to ease linting Ansible code repos
           presentation:
             by: Sorin Sbarnea
-            document: FIXME.pdf
+            document: https://sbarnea.com/slides/pre-commit/#/
             abstract: |
                 How to introduce linting gradually on old code repositories
                 and ease its maintenance. While it touches ansible-lint
