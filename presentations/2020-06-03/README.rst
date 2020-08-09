@@ -10,8 +10,8 @@
       talks:
         - name: The Evolution of Ansible Tower at Gamesys
           presentation:
-            by: Mike McCarthy
-            document: FIXME.pdf
+            by: Michael McCarthy
+            document: [The Evolution of Ansible Tower at Gamesys](The Evolution of Ansible Tower at Gamesys.pdf)
             abstract: |
                 We've been using Ansible Tower at Gamesys now for many years,
                 and it has become the de facto standard for how we deploy our
