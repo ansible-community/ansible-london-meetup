@@ -1,5 +1,3 @@
-.. code-block:: yaml
-
 - name: Ansible Meetup
   hosts: G-Research
   vars:
