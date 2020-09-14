@@ -1,3 +1,4 @@
+---
 - name: Ansible Meetup
   hosts: G-Research
   vars:
