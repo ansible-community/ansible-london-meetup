@@ -17,3 +17,14 @@
           Dynamic Inventory Script and the Inventory Plugin and will show how
           to write your own Inventory Plugin.
         recording: null
+
+    - name: Verification and Validation Testing with Ansible and Goss 
+      presentation:
+        by: Colin Cowlan
+        document: [ansible-goss-testing](ansible-goss-testing.pdf)
+        abstract: |
+          Goss is a YAML based serverspec alternative tool for validating a 
+          server’s configuration. GOSS is exceptionally easy to deploy an use, 
+          this presentation shows how you can use Ansible and GOSS together 
+          to verify and validate your deployments.
+        recording: null
