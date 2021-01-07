@@ -1,3 +1,4 @@
+```yaml
 ---
 - name: Ansible Meetup
   hosts: G-Research
@@ -30,3 +31,4 @@
           to verify and validate your deployments.
         recording: null
         links: https://github.com/belfast77/ansible-goss-testing
+```
