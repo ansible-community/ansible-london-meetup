@@ -34,7 +34,7 @@ The discussion regarding dates will take place in the GitHub issue
 Otherwise, submissions might be kept for the next meetup.
 
 .. _here: https://github.com/ansible-community/ansible-london-meetup/issues/new/choose
-.. _presentations: https://github.com/ansible-community/ansible-london-meetup/tree/master/presentations
+.. _presentations: https://github.com/ansible-community/ansible-london-meetup/tree/main/presentations
 
 Contributing
 ============
