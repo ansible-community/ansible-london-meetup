@@ -29,7 +29,7 @@
     - name: Deploying PHP applications with Ansible, Ansible Vault and Ansistrano
       presentation: 
         by: Oliver Davies
-        document: FIXME.pdf
+        document: Deploying-PHP-Ansistrano.pdf
         abstract: |
           Great! You’ve built your website, and now you just need to deploy it. There are various ways that this could be done
           from (S)FTP, to SCP and rsync, to running commands like git pull and composer install directly on the server which is not ideal.
@@ -46,8 +46,10 @@
 
         recording: FIXME YouTube
         links:
+          - https://ansistrano.com
           - https://twitter.com/opdavies
           - https://www.oliverdavies.uk/talks/deploying-php-applications-ansible-ansible-vault-ansistrano
+          - https:/symfonycasts.com/screencast/ansistrano
     - name: The Ansible Playbook Generator
       presentation: 
         by: Dennis McCarthy
