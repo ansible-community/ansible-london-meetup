@@ -9,17 +9,24 @@
     - name: Intro and welcom
       presentation: 
         by: John "gundalow" Barker
-        document: FIXME.pdf
+        document: https://hackmd.io/@ansible-community/BJaR9V3Vc
         abstract: |
-          FIXME
-
-        recording: FIXME YouTube
+          Welcome and introductions
+          The Bullhorn is a weekly newsletter for the Ansible Community
+          community-topics allows asynchronous discussion and governance of the Ansible Community
+          news-for-maintainers provides Collection Owners timely information on upcoming changes.
+        recording: https://youtu.be/VFwqUBlofZg
         links:
-          - FIXME
+          - https://matrix.to/#/#europe:ansible.com
+          - https://github.com/ansible/community/wiki/News#the-bullhorn
+          - https://github.com/ansible-community/community-topics/issues
+          - https://github.com/ansible-collections/news-for-maintainers
+          - https://docs.ansible.com/ansible/devel/community/communication.html
     - name: ansible-lint future and its fixing new feature
       presentation: 
         by: Sorin Sbarnea
         document: FIXME
+        video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=2570s
         abstract: |
           Introduction to the uplifted status of ansible-lint, its recent changes, and the auto-fixing feature.
           https://github.com/ansible/ansible-lint/discussions/1910
@@ -31,6 +38,7 @@
       presentation: 
         by: James Freeman
         document: FIXME.pdf
+        video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=4336s
         abstract: |
           This talk will be based on this two part guest blog I wrote for Cumulus Networks,
           https://cumulusnetworks.com/blog/build-an-openstack-ceph-cluster-with-cumulus-networks-in-gns3-part-1/
@@ -42,10 +50,11 @@
         recording: FIXME YouTube
         links:
           - https://cumulusnetworks.com/blog/build-an-openstack-ceph-cluster-with-cumulus-networks-in-gns3-part-1/
-    - name: Deploying an OpenStack infrastructure on a single server with Ansible
-      presentation: How I migrated from Puppet to Ansible
+    - name: How I migrated from Puppet to Ansible
+      presentation:
         by: Dennis McCarthy
         document: FIXME.pdf
+        video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=2570s
         abstract: |
           This talk is about the journey I started a few month ago to migrate a large code base away from puppet and
           over to Ansible. Highlights include working out an alternative method to hiera (which I feel is actually a
