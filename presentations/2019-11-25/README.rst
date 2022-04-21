@@ -8,17 +8,17 @@
         sponsors:
           - KPMG
       talks:
-        - name: Provisioning VMs on VMware ESXi with Ansible
+        - name: Managing VMware VMs with Ansible
           presentation:
             by: Jiri Tyr
-            document:
+            document: Managing VMware VMs with Ansible.pdf
             abstract: |
               How to use Ansible to build VM templates, how to upload them to vCenter and how to build and rebuild VMs from such template.
             recording:
         - name: The power of local facts
           presentation:
             by: McCarthy
-            document:
+            document: The_power_of_local_facts.pdf
             abstract: |
               Cover how you can set up and use local server facts to act like an ENC (external node classifier)
               and provide fact variables to ansible to allow location, environment & role specific information to customise our ansible runs.
