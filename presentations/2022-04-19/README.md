@@ -53,7 +53,7 @@
     - name: How I migrated from Puppet to Ansible
       presentation:
         by: Dennis McCarthy
-        document: FIXME.pdf
+        document: puppet_2_ansible.pdf
         video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=2570s
         abstract: |
           This talk is about the journey I started a few month ago to migrate a large code base away from puppet and
