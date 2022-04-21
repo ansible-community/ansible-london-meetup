@@ -5,9 +5,9 @@
   vars:
     date: 2022-03-19
     link: https://www.meetup.com/Ansible-London/events/284846000/
-  talks: 
-    - name: Intro and welcom
-      presentation: 
+  talks:
+    - name: Intro and welcome
+      presentation:
         by: John "gundalow" Barker
         document: https://hackmd.io/@ansible-community/BJaR9V3Vc
         abstract: |
@@ -23,9 +23,9 @@
           - https://github.com/ansible-collections/news-for-maintainers
           - https://docs.ansible.com/ansible/devel/community/communication.html
     - name: ansible-lint future and its fixing new feature
-      presentation: 
+      presentation:
         by: Sorin Sbarnea
-        document: FIXME
+        document: https://sbarnea.com/ss/lint-v6.html
         video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=2570s
         abstract: |
           Introduction to the uplifted status of ansible-lint, its recent changes, and the auto-fixing feature.
@@ -35,7 +35,7 @@
           - https://github.com/ansible/ansible-lint
           - https://github.com/ansible/ansible-lint/discussions/1910
     - name: Deploying an OpenStack infrastructure on a single server with Ansible
-      presentation: 
+      presentation:
         by: James Freeman
         document: FIXME.pdf
         video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=4336s
