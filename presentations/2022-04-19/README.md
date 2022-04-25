@@ -37,7 +37,7 @@
     - name: Deploying an OpenStack infrastructure on a single server with Ansible
       presentation:
         by: James Freeman
-        document: FIXME.pdf
+        document: Deploying an OpenStack infrastructure on a single server with Ansible.pdf
         video: https://www.youtube.com/watch?v=VFwqUBlofZg&t=4336s
         abstract: |
           This talk will be based on this two part guest blog I wrote for Cumulus Networks,
@@ -49,7 +49,7 @@
           on a single (albeit powerful) machine for a multitude of purposes including testing and developing Ansible playbooks.
         recording: FIXME YouTube
         links:
-          - https://cumulusnetworks.com/blog/build-an-openstack-ceph-cluster-with-cumulus-networks-in-gns3-part-1/
+          - https://jamesfreeman959.github.io/build-an-openstack-ceph-cluster-with-cumulus-networks-in-gns3/
     - name: How I migrated from Puppet to Ansible
       presentation:
         by: Dennis McCarthy
