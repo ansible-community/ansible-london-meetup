@@ -1,6 +1,7 @@
 ---
 name: Submit a talk
 about: Tell us about a talk you'd like to give
+labels: topic
 
 ---
 
@@ -11,8 +12,8 @@ about: Tell us about a talk you'd like to give
 ## Estimated Duration
 
 
-## Twitter Handle
-<!-- So we can promote the talk, can we know your Twitter handle? -->
+## Social Media Handle
+<!-- So we can promote the talk, can we know your social media handles? -->
 
 ## Sponsorship
 <!-- We know you are doing cool things with Ansible, though are you also hiring or looking to promote your business?
