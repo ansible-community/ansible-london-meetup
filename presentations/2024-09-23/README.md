@@ -1,3 +1,4 @@
+```yaml
 - name: Ansible Meetup
   hosts: Dell
   vars:
@@ -35,3 +36,4 @@
       website:
         - https://forum.ansible.com/
         - https://ansible.readthedocs.io/
+```
