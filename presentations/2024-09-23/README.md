@@ -20,7 +20,7 @@
     - name: What's new about Ansible DevTools
       presentation:
         by: Sorin Sbarnea
-        document: [DevTools](fixme.pdf)
+        document: [DevTools](2024-09-ansible-devtools.pdf)
         abstract: |
             Sorin will give an update and demo on what's been happening in Ansible Development Tooling.
             Including Using GitHub Actions to test and publish Ansible collections
