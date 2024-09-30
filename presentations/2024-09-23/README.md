@@ -28,12 +28,12 @@
     - name: Ansible Community Update
       presentation:
         by: Don Naro
-        document: [Ansible Community](fixme.pdf)
+        document: [Ansible Community](2024-09-ansible-community-team.pdf)
         abstract: |
-            Most of the Ansible Community team from Red Hat are in town, and will be giving a short update on
-            the recent initiatives including The Ansible Forum and the move to Read The Docs for Ansible upstream
-            projects.
+            Several members of the Ansible Community team from Red Hat are in town and will be giving a short update on initiatives to support contributors and foster the community.We'll be discussing the Ansible Forum, the "lift and shift" effort to create a standalone documentation project, as well as other work going on such as package releases and the collection inclusion process.
       website:
         - https://forum.ansible.com/
+        - https://docs.ansible.com/
+        - https://github.com/ansible/ansible-documentation/
         - https://ansible.readthedocs.io/
 ```
