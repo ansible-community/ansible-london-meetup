@@ -10,7 +10,7 @@
     - name: From Zero to Hero: How to build the Ansible Pilot Community
       presentation:
         by: Luca Berton
-        document: [How to build the Ansible Pilot Community](fixme.pdf)
+        document: [How to build the Ansible Pilot Community](presentations/2024-09-23/2024-09-ansible-pilot-from-zero-to-hero.pdf)
         abstract: |
             How I share my knowledge and create an Ansible Community by sharing real code examples throw
             videos and blog articles. Sharing some real use cases, each article shows the status of the system
