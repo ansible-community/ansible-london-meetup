@@ -1,3 +1,4 @@
+```yaml
 - name: Ansible Meetup
   hosts: Dell
   vars:
@@ -33,3 +34,6 @@
             Why have we written this
             What compliance can be addressed
             How: A cut back demo showing the steps taken including audit and remediate
+
+
+```
