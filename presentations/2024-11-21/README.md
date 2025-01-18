@@ -20,20 +20,19 @@
     - name: Infrastructure as Code - VPS provisioning and configuration on Hetzner Cloud
       presentation:
         by: Daniel Brennand
-        document: FIXME.pdf
+        document: Infrastructure as Code - VPS provisioning and configuration on Hetzner Cloud.pdf
         abstract: |
             This talk will a demo on provisioning a VPS using Ansible on Hetzner Cloud and running a basic playbook
             to configure the VPS post deployment. The demo will use the dynamic inventory plugin from the
             `hetzner.hcloud` collection too.
+        links: https://danielbrennand.com/blog/ansible-meetup-21-november/
     - name: Achieving compliance through ansible-lockdown
       presentation:
         by: Mark Bolwell
-        document: FIXME.pdf
+        document: Compliance.pdf
         abstract: |
             How to achieve OS baseline compliance with the use of ansible
             Why have we written this
             What compliance can be addressed
             How: A cut back demo showing the steps taken including audit and remediate
-
-
 ```
