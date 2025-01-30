@@ -5,6 +5,10 @@ labels: topic
 
 ---
 
+Thank you for submitting a talk to the [Ansible London meetup](https://github.com/ansible-community/ansible-london-meetup).
+
+By submitting a talk, and attending any Ansible event, including this Meetup, you agree to follow the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html), which is meant to be followed in spirit as much as in letter and is not exhaustive.
+
 ## Talk title
 
 ## Talk Description
